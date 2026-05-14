@@ -10,12 +10,12 @@ This document provides a set of guidelines and steps to help you contribute to t
 1. Fork the repository on GitHub by clicking the **Fork** button in the top right corner.
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/open-resume.git
-   cd open-resume
+git clone https://github.com/YOUR-USERNAME/Auto-Fill-Tool.git
+cd Auto-Fill-Tool
    ```
 3. Add the original repository as an upstream remote to keep your fork synced:
    ```bash
-   git remote add upstream https://github.com/xitanggg/open-resume.git
+   git remote add upstream https://github.com/sunilkumar2170/Auto-Fill-Tool
    ```
 
 ### 2. Install Dependencies
