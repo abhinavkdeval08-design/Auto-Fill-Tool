@@ -71,10 +71,10 @@ npm test
 ```
 4. Open a PR on: https://github.com/sunilkumar2170/Auto-Fill-Tool
 
-5. PR description mein likho:
-   - Kya fix/add kiya
-   - Screenshots attach karo
-   - Issue number mention karo (e.g., Closes #17)
+5. **Describe your PR clearly:**
+   - What did you fix or add?
+   - Attach screenshots (before & after)
+   - Mention the issue number (e.g., Closes #17)
 
 ## 🤔 Need Help?
 
