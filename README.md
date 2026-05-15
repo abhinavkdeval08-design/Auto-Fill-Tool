@@ -204,6 +204,7 @@ This project is licensed under the [AGPL-3.0](LICENSE) — free to use, modify, 
 
 <div align="center">
 
+
 Made with ❤️ for the open-source community · GSSoC 2026
 
 **[⭐ Star this repo](https://github.com/sunilkumar2170/Auto-Fill-Tool)** if you find it useful — it helps more contributors discover the project.
